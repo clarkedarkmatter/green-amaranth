@@ -6,9 +6,8 @@ sections:
     section_id: hero
     title: 'We do digital, better.'
     content: >
-      Blazing fast webpages, digital strategy, business optimization. We partner
-      with teams that want results. If that sounds like you, let's have a
-      conversation.
+      We find teams that want innovation and results. If that sounds like you,
+      let's start a conversation today.
     actions:
       - label: Send us a message
         url: '#'
