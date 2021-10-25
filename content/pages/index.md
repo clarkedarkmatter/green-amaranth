@@ -34,7 +34,7 @@ sections:
         image_alt: Logo 1
       - image: /images/163853200_165264815431769_7983307136269749354_n.jpg
         image_alt: Logo 2
-      - image: images/logo-3.svg
+      - image: /images/182575701_103882945212833_6721565454203209717_n.png
         image_alt: Logo 3
       - image: images/logo-4.svg
         image_alt: Logo 4
