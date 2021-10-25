@@ -6,8 +6,9 @@ sections:
     section_id: hero
     title: We help grow organizations.
     content: >
-      We find teams that want innovation and results. If that sounds like you,
-      let's start a conversation today.
+      We partner with teams to create new opportunities and drive results. We'd
+      love to see how we can support your goals - let's start a conversation
+      today.
     actions:
       - label: Send us a message
         url: '#'
