@@ -9,6 +9,13 @@ sections:
       Blazing fast webpages, digital strategy, business optimization. We partner
       with teams that want results. If that sounds like you, let's have a
       conversation.
+    actions:
+      - label: lorem-ipsum
+        url: '#'
+        style: link
+        icon: dribbble
+        new_window: false
+        no_follow: false
   - type: portfolio_section
     section_id: latest-projects
     layout_style: tiles
