@@ -7,7 +7,8 @@ sections:
     title: 'We do digital, better.'
     content: >
       Blazing fast webpages, digital strategy, business optimization. We partner
-      with teams that want results.
+      with teams that want results. If that sounds like you, let's have a
+      conversation.
   - type: portfolio_section
     section_id: latest-projects
     layout_style: tiles
