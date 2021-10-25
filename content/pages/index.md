@@ -4,7 +4,7 @@ hide_title: true
 sections:
   - type: hero_section
     section_id: hero
-    title: Every organization should have a digital partner.
+    title: We grow organizations.
     content: >
       We find teams that want innovation and results. If that sounds like you,
       let's start a conversation today.
