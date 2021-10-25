@@ -14,7 +14,7 @@ sections:
         url: '#'
         style: link
         icon: dribbble
-        new_window: false
+        new_window: true
         no_follow: false
   - type: portfolio_section
     section_id: latest-projects
