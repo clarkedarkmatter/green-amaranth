@@ -58,14 +58,12 @@ sections:
           - Communication strategy
       - title: Political
         image: images/service-2.svg
-        content: |-
-          - Brand development
-          - Naming
-          - Brand identity
-          - Design systems
-          - Concept development
-          - Brand implementation and management
-          - Typography
+        content: |
+          *   Brand development
+          *   Voter file analysis
+          *   Email and mailer marketing
+          *   Content creation
+          *   A/B Testing
       - title: Community
         image: images/service-3.svg
         content: |-
