@@ -36,7 +36,7 @@ sections:
         image_alt: Logo 2
       - image: /images/182575701_103882945212833_6721565454203209717_n.png
         image_alt: Logo 3
-      - image: images/logo-4.svg
+      - image: /images/robinson_noshading-01.png
         image_alt: Logo 4
       - image: images/logo-5.svg
         image_alt: Logo 5
