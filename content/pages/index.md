@@ -46,7 +46,7 @@ sections:
     subtitle: What we do
     col_number: three
     grid_items:
-      - title: E
+      - title: E-Commerce
         image: images/service-1.svg
         content: |-
           - Research and insight
