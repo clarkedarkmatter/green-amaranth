@@ -12,7 +12,7 @@ sections:
     actions:
       - label: lorem-ipsum
         url: '#'
-        style: button
+        style: link
         icon: dribbble
         new_window: false
         no_follow: false
