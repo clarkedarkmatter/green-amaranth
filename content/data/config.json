@@ -2,10 +2,10 @@
     "title": "Dark Matter",
     "path_prefix": "/",
     "color_scheme": "dark",
-    "accent_color": "yellow",
+    "accent_color": "pink",
     "base_font": "system-sans",
     "header": {
-        "logo": "images/logo.svg",
+        "logo": "/images/7.png",
         "logo_alt": "Agency logo",
         "has_nav": true,
         "nav_links": [
