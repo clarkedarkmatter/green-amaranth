@@ -10,7 +10,7 @@ sections:
       with teams that want results. If that sounds like you, let's have a
       conversation.
     actions:
-      - label: lorem-ipsum
+      - label: Start
         url: '#'
         style: link
         icon: dribbble
