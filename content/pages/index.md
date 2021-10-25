@@ -105,6 +105,6 @@ sections:
         style: button
     image: /images/7-cb80efff.png
     image_alt: Illustration
-    bg_color: light
+    bg_color: none
 layout: advanced
 ---
