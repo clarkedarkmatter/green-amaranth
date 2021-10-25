@@ -38,7 +38,7 @@ sections:
         image_alt: Logo 3
       - image: /images/robinson_noshading-01.png
         image_alt: Logo 4
-      - image: images/logo-5.svg
+      - image: /images/Untitled design (40).png
         image_alt: Logo 5
   - type: grid_section
     section_id: services
