@@ -32,7 +32,7 @@ sections:
     grid_items:
       - image: /images/EAW.png
         image_alt: Logo 1
-      - image: images/logo-2.svg
+      - image: /images/163853200_165264815431769_7983307136269749354_n.jpg
         image_alt: Logo 2
       - image: images/logo-3.svg
         image_alt: Logo 3
